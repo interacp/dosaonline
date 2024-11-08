@@ -1,5 +1,5 @@
-appId: 'Dosalauncher'
-productName: 'Dosa Online'
+appId: 'helioslauncher'
+productName: 'Helios Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2018-2024 Daniel Scalzi'
